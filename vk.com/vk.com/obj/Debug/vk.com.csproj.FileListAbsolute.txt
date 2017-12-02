@@ -1,0 +1,13 @@
+c:\users\димон\documents\visual studio 2013\Projects\vk.com\vk.com\bin\Debug\vk.com.exe.config
+c:\users\димон\documents\visual studio 2013\Projects\vk.com\vk.com\obj\Debug\vk.com.csprojResolveAssemblyReference.cache
+c:\users\димон\documents\visual studio 2013\Projects\vk.com\vk.com\obj\Debug\vk.com.Form1.resources
+c:\users\димон\documents\visual studio 2013\Projects\vk.com\vk.com\obj\Debug\vk.com.Properties.Resources.resources
+c:\users\димон\documents\visual studio 2013\Projects\vk.com\vk.com\obj\Debug\vk.com.csproj.GenerateResource.Cache
+c:\users\димон\documents\visual studio 2013\Projects\vk.com\vk.com\bin\Debug\vk.com.exe
+c:\users\димон\documents\visual studio 2013\Projects\vk.com\vk.com\bin\Debug\vk.com.pdb
+c:\users\димон\documents\visual studio 2013\Projects\vk.com\vk.com\bin\Debug\VkNet.dll
+c:\users\димон\documents\visual studio 2013\Projects\vk.com\vk.com\bin\Debug\Newtonsoft.Json.dll
+c:\users\димон\documents\visual studio 2013\Projects\vk.com\vk.com\obj\Debug\vk.com.exe
+c:\users\димон\documents\visual studio 2013\Projects\vk.com\vk.com\obj\Debug\vk.com.pdb
+c:\users\димон\documents\visual studio 2013\Projects\vk.com\vk.com\bin\Debug\HtmlAgilityPack.dll
+c:\users\димон\documents\visual studio 2013\Projects\vk.com\vk.com\bin\Debug\VkNet.pdb
